@@ -12,5 +12,6 @@ Here are some places you may want to visit:
 
 - [[java-backend-roadmap]] — Roadmap and first steps
 - [[dynamic-jvm-plugin-engine]] — Dynamic JVM Plugin Engine (plugin-server)
+- [[java-concurrency-from-race-condition-to-virtual-threads]] — Concurrency: race condition → AtomicInteger → Virtual Threads
 
 — Hamza :)
