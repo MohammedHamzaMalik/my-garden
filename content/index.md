@@ -14,5 +14,6 @@ Here are some places you may want to visit:
 - [[dynamic-jvm-plugin-engine]] — Dynamic JVM Plugin Engine (plugin-server)
 - [[java-concurrency-from-race-condition-to-virtual-threads]] — Concurrency: race condition → AtomicInteger → Virtual Threads
 - [[database-transactions-and-connection-pooling]] — JDBC, HikariCP, and ACID transactions
+- [[spring-boot-transactional-rest-api]] — Spring Boot REST API with @Transactional
 
 — Hamza :)
