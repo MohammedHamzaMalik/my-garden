@@ -15,5 +15,6 @@ Here are some places you may want to visit:
 - [[java-concurrency-from-race-condition-to-virtual-threads]] — Concurrency: race condition → AtomicInteger → Virtual Threads
 - [[database-transactions-and-connection-pooling]] — JDBC, HikariCP, and ACID transactions
 - [[spring-boot-transactional-rest-api]] — Spring Boot REST API with @Transactional
+- [[why-transactional-isnt-enough-jpa-locking]] — Prevent double spend with optimistic vs pessimistic locking
 
 — Hamza :)
