@@ -16,5 +16,6 @@ Here are some places you may want to visit:
 - [[database-transactions-and-connection-pooling]] — JDBC, HikariCP, and ACID transactions
 - [[spring-boot-transactional-rest-api]] — Spring Boot REST API with @Transactional
 - [[why-transactional-isnt-enough-jpa-locking]] — Prevent double spend with optimistic vs pessimistic locking
+- [[rest-api-design-dtos-validation-error-handling]] — DTOs, validation, and structured error responses
 
 — Hamza :)
