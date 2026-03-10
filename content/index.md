@@ -18,5 +18,6 @@ Here are some places you may want to visit:
 - [[why-transactional-isnt-enough-jpa-locking]] — Prevent double spend with optimistic vs pessimistic locking
 - [[rest-api-design-dtos-validation-error-handling]] — DTOs, validation, and structured error responses
 - [[testing-the-transfer-api-unit-and-integration]] — Unit and integration tests for the transfer API
+- [[deploying-the-transfer-api-docker-and-beyond]] — Docker, Compose, and cloud deployment
 
 — Hamza :)
