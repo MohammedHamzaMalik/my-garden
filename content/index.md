@@ -11,7 +11,6 @@ I'm documenting what I'm learning here: concepts, projects, and notes that stick
 ## Sections
 
 - **[[backend/index|Backend]]** — Java, Spring Boot, databases, concurrency, REST APIs, and deployment
-
-More sections (e.g. frontend, DevOps, tools) will show up here as I add them.
+- **[[dsa/index|DSA]]** — Data structures and algorithms
 
 — Hamza :)
