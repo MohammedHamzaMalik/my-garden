@@ -13,7 +13,7 @@ description: Raw JDBC, HikariCP, and ACID transactions—transferring money betw
 
 # Database Transactions & Connection Pooling — Plain Java, No Spring
 
-After [[dynamic-jvm-plugin-engine]] (how the JVM loads code) and [[java-concurrency-from-race-condition-to-virtual-threads]] (how it runs many things at once), the next step was obvious: connect those threads to a **database**. And do it without Spring Boot—just plain Java and JDBC—so I could see exactly what happens under the hood.
+After [[backend/dynamic-jvm-plugin-engine]] (how the JVM loads code) and [[backend/java-concurrency-from-race-condition-to-virtual-threads]] (how it runs many things at once), the next step was obvious: connect those threads to a **database**. And do it without Spring Boot—just plain Java and JDBC—so I could see exactly what happens under the hood.
 
 ---
 
@@ -170,8 +170,8 @@ So far the path looks like this:
 
 | Pillar | What I learned |
 |--------|----------------|
-| **1. JVM Architecture** | How code is loaded (ClassLoaders, [[dynamic-jvm-plugin-engine]]) |
-| **2. Concurrency** | How to run many tasks at once ([[java-concurrency-from-race-condition-to-virtual-threads]]) |
+| **1. JVM Architecture** | How code is loaded (ClassLoaders, [[backend/dynamic-jvm-plugin-engine]]) |
+| **2. Concurrency** | How to run many tasks at once ([[backend/java-concurrency-from-race-condition-to-virtual-threads]]) |
 | **3. Database Integrity** | How to protect data during failures (Connection pools, ACID, rollback) |
 
-Next step: take this transfer logic and expose it as a REST API with Spring Boot—so a real HTTP request can trigger the transaction. That’s the next post on my [[java-backend-roadmap]].
+Next step: take this transfer logic and expose it as a REST API with Spring Boot—so a real HTTP request can trigger the transaction. That’s the next post on my [[backend/java-backend-roadmap]].

@@ -12,7 +12,7 @@ description: From a sequential BankAccount loop to a race condition, then Atomic
 
 # Java Concurrency — How I Started With a Simple Loop and Ended With Virtual Threads
 
-After building the [[dynamic-jvm-plugin-engine]], the next step was clear: stop spinning up raw threads and learn how the JVM runs *many* things at once. That meant **concurrency, thread pools, and virtual threads**. Here’s how I started, how I broke it, and how I fixed it.
+After building the [[backend/dynamic-jvm-plugin-engine]], the next step was clear: stop spinning up raw threads and learn how the JVM runs *many* things at once. That meant **concurrency, thread pools, and virtual threads**. Here’s how I started, how I broke it, and how I fixed it.
 
 ---
 
@@ -181,4 +181,4 @@ Spring Boot 3.2+ can run the whole web stack on virtual threads with a single se
 | **Why** | “Why not just the simple loop?” | Concurrency is for **blocking I/O** (DB, network), not for making pure math faster. |
 | **Modern** | `newVirtualThreadPerTaskExecutor()` | Huge number of concurrent tasks without the cost of platform threads. |
 
-This is the kind of progression that separates “I can write a loop” from “I can reason about a server under load.” Next step in my [[java-backend-roadmap]] is to keep building on this—more concurrent patterns and then layering in persistence and APIs.
+This is the kind of progression that separates “I can write a loop” from “I can reason about a server under load.” Next step in my [[backend/java-backend-roadmap]] is to keep building on this—more concurrent patterns and then layering in persistence and APIs.

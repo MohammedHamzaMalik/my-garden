@@ -12,7 +12,7 @@ description: Containerize the transfer API with a multi-stage Dockerfile, run ap
 
 # Deploying the Transfer API — Docker and Beyond
 
-After [[testing-the-transfer-api-unit-and-integration]], the transfer API had tests and a clear contract. The next step was to **ship it**: containerize with Docker so it runs the same everywhere, then wire it to a real database and point it at the internet.
+After [[backend/testing-the-transfer-api-unit-and-integration]], the transfer API had tests and a clear contract. The next step was to **ship it**: containerize with Docker so it runs the same everywhere, then wire it to a real database and point it at the internet.
 
 This post covers a practical path from "runs on my machine" to "runs in a container (and optionally in the cloud)."
 
@@ -175,4 +175,4 @@ Common pattern: **managed DB** (e.g. Railway Postgres, AWS RDS) + **container fo
 
 ## Where this sits in the roadmap
 
-So far: [[spring-boot-transactional-rest-api]], [[why-transactional-isnt-enough-jpa-locking]], [[rest-api-design-dtos-validation-error-handling]], [[testing-the-transfer-api-unit-and-integration]], and now **deployment**—Docker, Compose, and a path to the cloud. The transfer API is built, tested, and shippable. Next on my [[java-backend-roadmap]]: more features (e.g. transfer history, auth) or deeper infra (CI/CD, monitoring).
+So far: [[backend/spring-boot-transactional-rest-api]], [[backend/why-transactional-isnt-enough-jpa-locking]], [[backend/rest-api-design-dtos-validation-error-handling]], [[backend/testing-the-transfer-api-unit-and-integration]], and now **deployment**—Docker, Compose, and a path to the cloud. The transfer API is built, tested, and shippable. Next on my [[backend/java-backend-roadmap]]: more features (e.g. transfer history, auth) or deeper infra (CI/CD, monitoring).

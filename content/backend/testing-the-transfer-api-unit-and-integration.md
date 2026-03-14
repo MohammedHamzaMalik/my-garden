@@ -13,7 +13,7 @@ description: Unit tests for TransferService with mocked repositories, and integr
 
 # Testing the Transfer API — Unit and Integration Tests
 
-After [[rest-api-design-dtos-validation-error-handling]], the transfer API had DTOs, validation, and structured errors. The next step was to **lock that behavior in with tests**: unit tests for the service (mocked repository) and integration tests for the HTTP layer so refactors and new features don’t break what already works.
+After [[backend/rest-api-design-dtos-validation-error-handling]], the transfer API had DTOs, validation, and structured errors. The next step was to **lock that behavior in with tests**: unit tests for the service (mocked repository) and integration tests for the HTTP layer so refactors and new features don’t break what already works.
 
 This post covers a practical testing setup for the same transfer API, without touching the database in unit tests and with a real (or test) DB only where we need it.
 
@@ -265,4 +265,4 @@ You’d seed the DB in `@BeforeEach` or with a script and then assert on both HT
 
 ## Where this sits in the roadmap
 
-So far: [[spring-boot-transactional-rest-api]], [[why-transactional-isnt-enough-jpa-locking]], [[rest-api-design-dtos-validation-error-handling]], and now **tests**—unit for the service, integration for the API and error handling. Next on my [[java-backend-roadmap]]: deployment (e.g. container or cloud) and then iterating on features with the same discipline.
+So far: [[backend/spring-boot-transactional-rest-api]], [[backend/why-transactional-isnt-enough-jpa-locking]], [[backend/rest-api-design-dtos-validation-error-handling]], and now **tests**—unit for the service, integration for the API and error handling. Next on my [[backend/java-backend-roadmap]]: deployment (e.g. container or cloud) and then iterating on features with the same discipline.

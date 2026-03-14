@@ -12,7 +12,7 @@ description: Move from query params to request/response DTOs, add Bean Validatio
 
 # REST API Design — DTOs, Validation, and Structured Error Responses
 
-After [[why-transactional-isnt-enough-jpa-locking]], the transfer API was correct under concurrency. The next step was to make it **clean for clients**: request/response bodies instead of query params, validation so bad input never reaches the service, and a consistent error shape so frontends and tools can rely on it.
+After [[backend/why-transactional-isnt-enough-jpa-locking]], the transfer API was correct under concurrency. The next step was to make it **clean for clients**: request/response bodies instead of query params, validation so bad input never reaches the service, and a consistent error shape so frontends and tools can rely on it.
 
 This post tightens the API design while keeping the same transactional and locking guarantees.
 
@@ -279,10 +279,10 @@ Success (200) can return your `TransferResponse` or a simple message; either way
 
 - **Transactions:** `@Transactional` on the service is unchanged.
 - **Locking:** Optimistic (`@Version`) or pessimistic (`findByAccountNameForUpdate`) is unchanged.
-- **Concurrency:** The attack script from [[why-transactional-isnt-enough-jpa-locking]] still applies; only the client now sends a JSON body and receives structured errors.
+- **Concurrency:** The attack script from [[backend/why-transactional-isnt-enough-jpa-locking]] still applies; only the client now sends a JSON body and receives structured errors.
 
 ---
 
 ## Where this sits in the roadmap
 
-So far: [[spring-boot-transactional-rest-api]] (first REST API), [[why-transactional-isnt-enough-jpa-locking]] (double spend and JPA locking), and now **API design**—DTOs, validation, and error handling. Next on my [[java-backend-roadmap]]: tests (unit + integration) and then deployment.
+So far: [[backend/spring-boot-transactional-rest-api]] (first REST API), [[backend/why-transactional-isnt-enough-jpa-locking]] (double spend and JPA locking), and now **API design**—DTOs, validation, and error handling. Next on my [[backend/java-backend-roadmap]]: tests (unit + integration) and then deployment.

@@ -13,7 +13,7 @@ description: Building a money-transfer REST API with Spring Web, JPA, and @Trans
 
 # Spring Boot Transactional REST API — From Raw JDBC to Four Layers
 
-After [[database-transactions-and-connection-pooling]], I had the mechanics: HikariCP, `setAutoCommit(false)`, and `rollback()`. The next step was to expose that logic over HTTP so a real client could trigger a transfer—and to let Spring Boot handle the connection and transaction plumbing instead of writing it by hand.
+After [[backend/database-transactions-and-connection-pooling]], I had the mechanics: HikariCP, `setAutoCommit(false)`, and `rollback()`. The next step was to expose that logic over HTTP so a real client could trigger a transfer—and to let Spring Boot handle the connection and transaction plumbing instead of writing it by hand.
 
 ---
 
@@ -190,4 +190,4 @@ The guarantees are the same: one transaction, all-or-nothing, rollback on failur
 
 ## Where this sits in the roadmap
 
-So far: [[dynamic-jvm-plugin-engine]] (loading code), [[java-concurrency-from-race-condition-to-virtual-threads]] (threads and virtual threads), [[database-transactions-and-connection-pooling]] (JDBC + HikariCP + rollback), and now a **transactional REST API** with Spring Boot. Same transfer, same ACID behavior, exposed as an HTTP API—ready to turn into a proper repo with a README and maybe the next feature on my [[java-backend-roadmap]].
+So far: [[backend/dynamic-jvm-plugin-engine]] (loading code), [[backend/java-concurrency-from-race-condition-to-virtual-threads]] (threads and virtual threads), [[backend/database-transactions-and-connection-pooling]] (JDBC + HikariCP + rollback), and now a **transactional REST API** with Spring Boot. Same transfer, same ACID behavior, exposed as an HTTP API—ready to turn into a proper repo with a README and maybe the next feature on my [[backend/java-backend-roadmap]].

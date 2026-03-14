@@ -13,7 +13,7 @@ description: Reproduce the “double spend” (lost update) in a transactional S
 
 # Why `@Transactional` Isn’t Enough — Solving the Double Spend with JPA Locking
 
-In [[spring-boot-transactional-rest-api]] I built a money transfer API with Spring Web + Spring Data JPA + `@Transactional`. It rolls back on failures and keeps “all-or-nothing” guarantees.
+In [[backend/spring-boot-transactional-rest-api]] I built a money transfer API with Spring Web + Spring Data JPA + `@Transactional`. It rolls back on failures and keeps “all-or-nothing” guarantees.
 
 But there’s a **bigger** reliability problem that `@Transactional` alone does *not* solve:
 

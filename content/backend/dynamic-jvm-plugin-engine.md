@@ -71,4 +71,4 @@ This project ties together:
 - **Spring Boot** — embedding custom lifecycle (e.g. `CommandLineRunner`) and REST APIs
 - **Concurrency** — safe shared state and background tasks
 
-It’s a concrete step on my [[java-backend-roadmap]] and a good base for experimenting with plugin APIs, security boundaries, or versioning later.
+It’s a concrete step on my [[backend/java-backend-roadmap]] and a good base for experimenting with plugin APIs, security boundaries, or versioning later.
