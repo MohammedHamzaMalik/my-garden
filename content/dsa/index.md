@@ -8,6 +8,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 
 ## Notes
 
-*(Add links to your DSA notes below, e.g. [[dsa/arrays-and-hashing]], [[dsa/two-pointers]].)*
+- [[dsa/big-o-and-why-it-matters]] — Big O and why it matters
 
 — *More to come*
