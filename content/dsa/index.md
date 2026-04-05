@@ -10,5 +10,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 
 - [[dsa/big-o-and-why-it-matters]] — Big O and why it matters
 - [[dsa/arrays-and-hashing-basics]] — Arrays & hashing — first pattern
+- [[dsa/two-pointers-sorted-arrays]] — Two pointers on sorted arrays
 
 — *More to come*
