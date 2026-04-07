@@ -13,5 +13,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/two-pointers-sorted-arrays]] — Two pointers on sorted arrays
 - [[dsa/sliding-window-fixed-and-variable]] — Sliding window (fixed & variable)
 - [[dsa/stacks-and-monotonic-stack]] — Stacks and monotonic stack
+- [[dsa/binary-search-sorted-array-and-answer-space]] — Binary search (array & answer space)
 
 — *More to come*
