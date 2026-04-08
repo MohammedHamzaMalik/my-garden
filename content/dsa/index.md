@@ -14,5 +14,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/sliding-window-fixed-and-variable]] — Sliding window (fixed & variable)
 - [[dsa/stacks-and-monotonic-stack]] — Stacks and monotonic stack
 - [[dsa/binary-search-sorted-array-and-answer-space]] — Binary search (array & answer space)
+- [[dsa/linked-lists-dummy-head-and-fast-slow]] — Linked lists (dummy head, fast/slow)
 
 — *More to come*
