@@ -166,5 +166,5 @@ static ListNode cycleEntry(ListNode head) {
 
 ---
 
-Next in [[dsa/index|DSA]]: monotonic queues for sliding window min/max (a close cousin of the monotonic stack idea).
+Next in [[dsa/index|DSA]]: [[dsa/monotonic-deque-sliding-window-min-max|Monotonic deque — sliding window min/max]] (a close cousin of the monotonic stack idea).
 
