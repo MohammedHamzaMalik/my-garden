@@ -93,4 +93,4 @@ When you only need “top k” or arbitrary order, a **heap** is often simpler e
 
 ---
 
-Next in [[dsa/index|DSA]]: heaps / priority queues (k largest, merge k sorted lists, scheduling).
+Next in [[dsa/index|DSA]]: [[dsa/heaps-and-priority-queue-basics|Heaps and priority queues (basics)]].

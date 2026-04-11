@@ -17,5 +17,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/linked-lists-dummy-head-and-fast-slow]] — Linked lists (dummy head, fast/slow pointers)
 - [[dsa/two-sum-unsorted-with-hashmap]] — Two sum (unsorted) with HashMap
 - [[dsa/monotonic-deque-sliding-window-min-max]] — Monotonic deque (sliding window min/max)
+- [[dsa/heaps-and-priority-queue-basics]] — Heaps and priority queues (basics)
 
 — *More to come*
