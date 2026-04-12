@@ -87,4 +87,4 @@ When the problem is **strictly a sliding window min/max** on a line, [[dsa/monot
 
 ---
 
-Next in [[dsa/index|DSA]]: trees and traversals (DFS pre/in/post-order, BFS level-order).
+Next in [[dsa/index|DSA]]: [[dsa/binary-trees-dfs-and-bfs-traversals|Binary trees — DFS and BFS traversals]].
