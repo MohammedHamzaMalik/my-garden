@@ -19,5 +19,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/monotonic-deque-sliding-window-min-max]] — Monotonic deque (sliding window min/max)
 - [[dsa/heaps-and-priority-queue-basics]] — Heaps and priority queues (basics)
 - [[dsa/binary-trees-dfs-and-bfs-traversals]] — Binary trees (DFS and BFS)
+- [[dsa/binary-search-tree-basics]] — Binary search trees (basics)
 
 — *More to come*

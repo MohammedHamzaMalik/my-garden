@@ -98,4 +98,4 @@ List<List<Integer>> levelOrder(TreeNode root) {
 
 ---
 
-Next in [[dsa/index|DSA]]: binary search trees (BST property, search, insert, delete sketch).
+Next in [[dsa/index|DSA]]: [[dsa/binary-search-tree-basics|Binary search trees (property, search, insert, delete sketch)]].
