@@ -83,4 +83,4 @@ Implementations often use a helper `minNode(root)` for case 3. The full recursiv
 
 ---
 
-Next in [[dsa/index|DSA]]: graphs — adjacency list, and BFS/DFS on unweighted graphs.
+Next in [[dsa/index|DSA]]: [[dsa/graphs-adjacency-list-bfs-dfs|Graphs — adjacency list, BFS, and DFS]].

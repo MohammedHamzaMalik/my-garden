@@ -20,5 +20,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/heaps-and-priority-queue-basics]] — Heaps and priority queues (basics)
 - [[dsa/binary-trees-dfs-and-bfs-traversals]] — Binary trees (DFS and BFS)
 - [[dsa/binary-search-tree-basics]] — Binary search trees (basics)
+- [[dsa/graphs-adjacency-list-bfs-dfs]] — Graphs (adjacency list, BFS, DFS)
 
 — *More to come*
