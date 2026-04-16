@@ -114,4 +114,4 @@ DFS is great for **connectivity**, **cycle detection** (with extra state), and m
 
 ---
 
-Next in [[dsa/index|DSA]]: topological sort on a DAG (Kahn’s algorithm with indegree).
+Next in [[dsa/index|DSA]]: [[dsa/topological-sort-kahn-indegree|Topological sort on a DAG (Kahn’s algorithm with indegree)]].
