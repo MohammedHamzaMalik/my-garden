@@ -22,5 +22,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/binary-search-tree-basics]] — Binary search trees (basics)
 - [[dsa/graphs-adjacency-list-bfs-dfs]] — Graphs (adjacency list, BFS, DFS)
 - [[dsa/topological-sort-kahn-indegree]] — Topological sort (Kahn, indegree)
+- [[dsa/union-find-dsu-basics]] — Union-find / DSU (basics)
 
 — *More to come*

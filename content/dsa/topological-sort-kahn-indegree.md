@@ -95,5 +95,5 @@ Each node enters/leaves the queue once, and each edge is considered once.
 
 ---
 
-Next in [[dsa/index|DSA]]: union-find (disjoint set union) for connectivity and cycle checks.
+Next in [[dsa/index|DSA]]: [[dsa/union-find-dsu-basics|union-find (disjoint set union) for connectivity and cycle checks]].
 
