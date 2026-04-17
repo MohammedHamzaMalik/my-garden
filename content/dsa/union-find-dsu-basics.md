@@ -101,5 +101,5 @@ For `m` operations on `n` elements:
 
 ---
 
-Next in [[dsa/index|DSA]]: shortest paths basics (BFS for unweighted vs Dijkstra for weighted non-negative graphs).
+Next in [[dsa/index|DSA]]: [[dsa/shortest-paths-bfs-vs-dijkstra-basics|Shortest paths — BFS (unweighted) vs Dijkstra (weighted, non-negative)]].
 

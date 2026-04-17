@@ -23,5 +23,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/graphs-adjacency-list-bfs-dfs]] — Graphs (adjacency list, BFS, DFS)
 - [[dsa/topological-sort-kahn-indegree]] — Topological sort (Kahn, indegree)
 - [[dsa/union-find-dsu-basics]] — Union-find / DSU (basics)
+- [[dsa/shortest-paths-bfs-vs-dijkstra-basics]] — Shortest paths (BFS vs Dijkstra)
 
 — *More to come*
