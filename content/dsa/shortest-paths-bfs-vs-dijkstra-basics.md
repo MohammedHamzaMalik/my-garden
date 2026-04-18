@@ -98,4 +98,4 @@ With a **binary heap**, each edge relaxation costs O(log V) → **O((V + E) log 
 
 ---
 
-Next in [[dsa/index|DSA]]: recursion, memoization, and a first DP pattern (Fibonacci / climbing stairs shape).
+Next in [[dsa/index|DSA]]: [[dsa/recursion-memoization-and-dp-intro|Recursion, memoization, and a first DP pattern (Fibonacci / climbing stairs shape)]].
