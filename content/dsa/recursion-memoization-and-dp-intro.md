@@ -102,4 +102,4 @@ So it is the same engine as Fibonacci after a change of bases.
 
 ---
 
-Next in [[dsa/index|DSA]]: grid DP (unique paths, min path sum—two classic 2D examples).
+Next in [[dsa/index|DSA]]: [[dsa/grid-dp-unique-paths-and-min-path-sum|Grid DP (unique paths, min path sum—two classic 2D examples)]].

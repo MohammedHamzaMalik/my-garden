@@ -25,5 +25,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/union-find-dsu-basics]] — Union-find / DSU (basics)
 - [[dsa/shortest-paths-bfs-vs-dijkstra-basics]] — Shortest paths (BFS vs Dijkstra)
 - [[dsa/recursion-memoization-and-dp-intro]] — Recursion, memoization, DP intro
+- [[dsa/grid-dp-unique-paths-and-min-path-sum]] — Grid DP (unique paths, min path sum)
 
 — *More to come*
