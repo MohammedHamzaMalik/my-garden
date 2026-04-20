@@ -113,5 +113,5 @@ Once this is clear, coding is straightforward.
 
 ---
 
-Next in [[dsa/index|DSA]]: 1D DP on arrays (house robber and maximum subarray).
+Next in [[dsa/index|DSA]]: [[dsa/one-dimensional-dp-house-robber-and-kadane|1D DP on arrays (house robber and maximum subarray)]].
 
