@@ -97,5 +97,5 @@ Once the state meaning is clear, transitions become straightforward.
 
 ---
 
-Next in [[dsa/index|DSA]]: interval problems (merge intervals, meeting rooms, and sweep-line basics).
+Next in [[dsa/index|DSA]]: [[dsa/intervals-merge-meeting-rooms-sweepline-basics|interval problems (merge intervals, meeting rooms, and sweep-line basics)]].
 

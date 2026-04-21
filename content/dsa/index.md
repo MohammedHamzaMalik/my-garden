@@ -27,5 +27,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/recursion-memoization-and-dp-intro]] — Recursion, memoization, DP intro
 - [[dsa/grid-dp-unique-paths-and-min-path-sum]] — Grid DP (unique paths, min path sum)
 - [[dsa/one-dimensional-dp-house-robber-and-kadane]] — 1D DP (house robber, max subarray)
+- [[dsa/intervals-merge-meeting-rooms-sweepline-basics]] — Intervals (merge, meeting rooms, sweep line)
 
 — *More to come*
