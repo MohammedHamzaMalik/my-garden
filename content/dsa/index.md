@@ -28,5 +28,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/grid-dp-unique-paths-and-min-path-sum]] — Grid DP (unique paths, min path sum)
 - [[dsa/one-dimensional-dp-house-robber-and-kadane]] — 1D DP (house robber, max subarray)
 - [[dsa/intervals-merge-meeting-rooms-sweepline-basics]] — Intervals (merge, meeting rooms, sweep line)
+- [[dsa/prefix-sums-range-query-and-subarray-sum-k]] — Prefix sums (range query, subarray sum = k)
 
 — *More to come*

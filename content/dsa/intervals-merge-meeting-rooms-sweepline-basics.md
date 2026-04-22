@@ -113,5 +113,5 @@ That solves a large chunk of interval questions.
 
 ---
 
-Next in [[dsa/index|DSA]]: prefix sums (range sum queries, subarray sum equals k).
+Next in [[dsa/index|DSA]]: [[dsa/prefix-sums-range-query-and-subarray-sum-k|prefix sums (range sum queries, subarray sum equals k)]].
 
