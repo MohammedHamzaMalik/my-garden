@@ -111,5 +111,5 @@ think **prefix sum**, often combined with a **hash map**.
 
 ---
 
-Next in [[dsa/index|DSA]]: bit manipulation basics (xor tricks, bit masks, and common operations).
+Next in [[dsa/index|DSA]]: [[dsa/bit-manipulation-xor-masks-basics|bit manipulation basics (xor tricks, bit masks, and common operations)]].
 

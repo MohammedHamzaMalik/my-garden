@@ -29,5 +29,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/one-dimensional-dp-house-robber-and-kadane]] — 1D DP (house robber, max subarray)
 - [[dsa/intervals-merge-meeting-rooms-sweepline-basics]] — Intervals (merge, meeting rooms, sweep line)
 - [[dsa/prefix-sums-range-query-and-subarray-sum-k]] — Prefix sums (range query, subarray sum = k)
+- [[dsa/bit-manipulation-xor-masks-basics]] — Bit manipulation (xor, masks, basics)
 
 — *More to come*
