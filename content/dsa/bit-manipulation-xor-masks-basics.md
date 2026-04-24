@@ -109,5 +109,5 @@ think in terms of masks and XOR first.
 
 ---
 
-Next in [[dsa/index|DSA]]: backtracking basics (subsets, permutations, and decision tree thinking).
+Next in [[dsa/index|DSA]]: [[dsa/backtracking-subsets-permutations-basics|backtracking basics (subsets, permutations, and decision tree thinking)]].
 

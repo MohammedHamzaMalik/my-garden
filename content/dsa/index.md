@@ -30,5 +30,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/intervals-merge-meeting-rooms-sweepline-basics]] — Intervals (merge, meeting rooms, sweep line)
 - [[dsa/prefix-sums-range-query-and-subarray-sum-k]] — Prefix sums (range query, subarray sum = k)
 - [[dsa/bit-manipulation-xor-masks-basics]] — Bit manipulation (xor, masks, basics)
+- [[dsa/backtracking-subsets-permutations-basics]] — Backtracking (subsets, permutations)
 
 — *More to come*
