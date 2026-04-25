@@ -115,5 +115,5 @@ think “build partial answer, recurse, undo.”
 
 ---
 
-Next in [[dsa/index|DSA]]: trie basics (prefix matching, insert/search/startsWith).
+Next in [[dsa/index|DSA]]: [[dsa/trie-basics-prefix-insert-search-startswith|trie basics (prefix matching, insert/search/startsWith)]].
 

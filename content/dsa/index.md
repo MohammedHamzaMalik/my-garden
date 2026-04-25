@@ -31,5 +31,6 @@ Notes on **data structures and algorithms**: problems, patterns, and implementat
 - [[dsa/prefix-sums-range-query-and-subarray-sum-k]] — Prefix sums (range query, subarray sum = k)
 - [[dsa/bit-manipulation-xor-masks-basics]] — Bit manipulation (xor, masks, basics)
 - [[dsa/backtracking-subsets-permutations-basics]] — Backtracking (subsets, permutations)
+- [[dsa/trie-basics-prefix-insert-search-startswith]] — Trie basics (insert, search, startsWith)
 
 — *More to come*
